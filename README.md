@@ -1,12 +1,14 @@
 # YTDownBlock
 
-**YTDownBlock** is a lightweight, premium Windows application designed to enhance your YouTube experience. It combines a powerful ad-blocking browser with high-quality video and audio download capabilities, all wrapped in a sleek, modern interface.
+**YTDownBlock** is a lightweight, premium Free Windows application designed to enhance your YouTube experience. It combines a powerful ad-blocking browser with high-quality video and audio download capabilities, all wrapped in a sleek, modern interface.
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue)
 ![Platform](https://img.shields.io/badge/platform-Windows-lightgrey)
 
 ---
-
+Free and virus-free
+https://www.virustotal.com/gui/file/2a8626e9335eec5ea2d694fe58c1ab8fe4eb3570ecc767cad841da362c169d51/detection
+---
 ## ✨ Key Features
 
 - **🚫 Advanced Ad-Blocking**: Enjoy YouTube without interruptions. Automatically blocks video ads, banners, and annotations.
