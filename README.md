@@ -27,7 +27,7 @@ https://www.virustotal.com/gui/file/2a8626e9335eec5ea2d694fe58c1ab8fe4eb3570ecc7
 2. **Run the Installer**: Follow the on-screen instructions to install the application.
 3. **Dependencies**:
     - **WebView2**: The app uses the Microsoft Edge WebView2 runtime. If not already present, the app will prompt you to install it or you can download it from [Microsoft](https://developer.microsoft.com/en-us/microsoft-edge/webview2/).
-    - **FFmpeg**: Required for high-definition video merging and MP3 conversion. If FFmpeg is not found on your system, the app will provide a link to download it.
+    - **FFmpeg (Built-in):** Essential for high-definition video merging and MP3 conversion. Unlike other tools, **you do not need to install FFmpeg separately**; it is already bundled within the application for a seamless "plug-and-play" experience.
 
 ---
 
