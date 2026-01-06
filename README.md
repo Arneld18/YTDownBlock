@@ -24,7 +24,7 @@ https://www.virustotal.com/gui/file/2a8626e9335eec5ea2d694fe58c1ab8fe4eb3570ecc7
 
 ## 🚀 Installation & Setup
 
-1. **Download the Installer**: Obtain the latest `YTDownBlock_Setup.exe` from the releases page.
+1. **Download the Installer**: Obtain the latest `YTDownBlock_Setup.exe` from the [Releases](https://github.com/Arneld18/YTDownBlock/releases) page.
 2. **Run the Installer**: Follow the on-screen instructions to install the application.
 3. **Dependencies**:
     - **WebView2**: The app uses the Microsoft Edge WebView2 runtime. If not already present, the app will prompt you to install it or you can download it from [Microsoft](https://developer.microsoft.com/en-us/microsoft-edge/webview2/).
