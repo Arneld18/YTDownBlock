@@ -6,6 +6,7 @@
 ![Platform](https://img.shields.io/badge/platform-Windows-lightgrey)
 
 ---
+![App Screenshot](https://github.com/Arneld18/YTDownBlock/blob/6455d077f0430aa351184b68a12fd6f6683134fd/Screenshot%20.png)
 Free and virus-free
 https://www.virustotal.com/gui/file/2a8626e9335eec5ea2d694fe58c1ab8fe4eb3570ecc767cad841da362c169d51/detection
 ---
